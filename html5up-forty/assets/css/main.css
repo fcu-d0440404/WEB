@@ -2828,7 +2828,7 @@
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				background-color: rgba(36, 41, 67, 0.3f);
 				content: '';
 				display: block;
 				height: 100%;
@@ -2854,33 +2854,34 @@
 				filter: blur(0.5em);
 				opacity: 0;
 			}
-
+			
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 60%;
 			}
-
+			
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df7a;
+				background-color: #242943;
+				
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c469;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8c8149;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b68850;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e842;
+				background-color: #242943;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a43f;
+				background-color: #242943;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3512,7 +3513,7 @@
 				}
 
 		#banner.major {
-			height: 75vh;
+			height: 920px;
 			min-height: 30em;
 			max-height: 50em;
 		}
@@ -3564,7 +3565,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				background-attachment: scroll;
+				background-attachment: fixed;
 			}
 
 		}
@@ -3808,6 +3809,13 @@
 			}
 
 		}
+
+/* Chinese Font */
+	.chinese{
+		 font-family: GenJyuuGothic;
+	}
+	
+
 
 /* Menu */
 
