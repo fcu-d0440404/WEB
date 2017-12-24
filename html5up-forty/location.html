@@ -27,6 +27,7 @@
 		<link type="text/css" rel="stylesheet" href="assets/css/font.css">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script type="text/javascript" src="assets/js/language.js"></script>
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
@@ -54,14 +55,15 @@
 				
       
 		for(id in marker) { 
-		  	marker[id].addListener('mouseover',function(){
+			var infowindow;
+			marker[id].addListener('mouseover',function(){
 				var contentString = '<div>' +'<h3 style="color:black">分布鄉鎮 : </h3>' + '<p style="color:black">'+ this.name + '</p>'+'</div>';
-				var infowindow = new google.maps.InfoWindow({
+				infowindow = new google.maps.InfoWindow({
 		   			content: contentString
 		   		});
 		  		infowindow.open(map, this);
-		   	});     
-		   	marker[id].addListener('mouseoot',function(){
+			    });     
+		   	marker[id].addListener('mouseout',function(){
 				infowindow.close();
 		   	});
 		  }
