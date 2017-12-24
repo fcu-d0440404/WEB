@@ -23,6 +23,8 @@
 
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<script type="text/javascript" src="assets/js/language.js"></script>
+		<link type="text/css" rel="stylesheet" href="assets/css/font.css">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script type="text/javascript" src="assets/js/language.js"></script>
@@ -53,13 +55,17 @@
 				
       
 		for(id in marker) { 
-		  marker[id].addListener('mousemove',function(){
-		   var contentString = '<div>' +'<h3 style="color:black">分布鄉鎮 : </h3>' + '<p style="color:black">'+ this.name + '</p>'+'</div>';
-		   var infowindow = new google.maps.InfoWindow({
-		   content: contentString
-		   });
-		   infowindow.open(map, this);
-		   });     
+			var infowindow;
+			marker[id].addListener('mouseover',function(){
+				var contentString = '<div>' +'<h3 style="color:black">分布鄉鎮 : </h3>' + '<p style="color:black">'+ this.name + '</p>'+'</div>';
+				infowindow = new google.maps.InfoWindow({
+		   			content: contentString
+		   		});
+		  		infowindow.open(map, this);
+			    });     
+		   	marker[id].addListener('mouseout',function(){
+				infowindow.close();
+		   	});
 		  }
 	
         var markerCluster = new MarkerClusterer(map, marker,
@@ -125,11 +131,11 @@
 			<div id="wrapper">
 
 				<!-- Header -->
-				<header id="header" class="alt">
+					<header id="header" class="alt">
 						<a href="index.html" class="logo"><img src="images/logo.png" width="25px" style="margin-top:10px"/></a>
 						<a href="index.html" class="logo" style="margin-left:-50px"> Taiwan <b style="color:#ffc769">Aborigines</b></a>
 						<nav  style="font-size:0.8em;">
-							<a onclick="changeLanguage()"><font class = "languageButton"> </font></a>
+							<a onclick="changeLanguage()"><font class = "chineserttf"> 漢語</font></a>
 							<a href="#menu">MENU</a>
 						</nav>
 					</header>
@@ -151,6 +157,7 @@
 						</ul>
 					</nav>
 
+
 				<!-- Main -->
 					<div id="main" class="alt">
 
@@ -158,7 +165,7 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h1>排灣族分布地點</h1>
+										<h1 class="locationBigTitleF"><font style="color:#ffc769" class="locationBigTitleB"></font></h1>
 									</header>
 									
 									<span class="image main"></span>
@@ -172,56 +179,7 @@
 
 					</div>
 
-				<!-- Contact -->
-					<section id="contact">
-						<div class="inner">
-							<section>
-								<form method="post" action="#">
-									<div class="field half first">
-										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
-									</div>
-									<div class="field half">
-										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="special" /></li>
-										<li><input type="reset" value="Clear" /></li>
-									</ul>
-								</form>
-							</section>
-							<section class="split">
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="#">information@untitled.tld</a>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span>(000) 000-0000 x12387</span>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-home"></span>
-										<h3>Address</h3>
-										<span>1234 Somewhere Road #5432<br />
-										Nashville, TN 00000<br />
-										United States of America</span>
-									</div>
-								</section>
-							</section>
-						</div>
-					</section>
+					
 
 				<!-- Footer -->
 					<footer id="footer">
