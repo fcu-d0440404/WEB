@@ -166,12 +166,12 @@
 .foodTitle3::before
 {
     font-family: GenJyuuGothic;
-    content:"祈納福 cinavu";
+    content:"祈納福 Cinavu";
 }
 .foodContext3::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"「 Cinavu 」 在排灣族語裡祈納福指的是用葉子包著食物，是魯凱族和排灣族的傳統料理，在部落傳統飲食文化中，相當具有代表性，通常是在祭典儀式、喜慶等重要活動時，會一起製作與分享食用，部落若有辦喜事的家族他們會殺豬，用甲酸漿葉包覆豬肉、芋頭粉，再以水煮熟給族人食用，分享其喜悅，有祝福之意思，可以說是原住民特有的喜餅，沒有豬肉時，就用其他食材肉類蔬果替代。";
 }
 .foodTitle4::before
 {
@@ -191,7 +191,7 @@
 .foodContext5::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"石板屋是魯凱族和排灣族的傳統建築物，具有冬暖夏涼的特性，由於石板具有保溫作用。原住民往往將石板燒熱，將獵捕的山豬、鹿或山羊的肉處理過後，切塊加鹽巴，先簡單的煮燙後，放於棚架上以火烘烤至乾，或置於石板上火烤至熟，相當有一番特殊風味。";
 
 }
 
@@ -208,7 +208,7 @@
 .apparelBigContext::before
 {
     font-family: rttf;
-    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，\A貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
+    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
 
 }
 .apparelSection1Title::before
@@ -259,4 +259,16 @@
     font-family: rttf;
     content:"女性服飾，平常服有頭帕、上衣（後來受到漢人影響，長裙開襟，窄袖。）、腰裙 、綁腿、手套。盛裝與常服在形式上相同，只是有刺繡和夾織而成，如花頭帕。刺繡長衣、綁腿、刺繡的長袍和手足套。女子上身穿著右襟圓領長袖連身長衣，下身著一或二件單片式長裙，小腿上綁縛一對護腳布。排灣族女子上身穿著之右襟圓領長袖長衣，乃仿自漢人婦女大襟衫的型式。";
 
+}
+
+
+.locationBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族";
+}
+.locationBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:"分布地點";
 }
