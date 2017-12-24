@@ -1,3 +1,7 @@
+.languageButton::before{
+    content:"English";
+}
+
 /*主頁 大標題*/
 .indexBigTitleF::before
 {
@@ -264,6 +268,74 @@
 
 }
 
+ /*語言*/
+ .languageBigTitleF::before
+ {
+     font-family: GenJyuuGothic;
+     content:"排灣族";
+ }
+ .languageBigTitleB::before
+ {
+    font-family: GenJyuuGothic;
+    content:" 語言";
+ }
+ .languageBigContext::before
+ {
+     font-family: rttf;
+     content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
+ }
+ .languageTitle1::before
+ {
+     font-family: rttf;
+     content:" 飲食特色";
+ }
+ .languageContext1::before
+ {
+     font-family: rttf;
+     content:"排灣族日常生活的主食有小米飯、小米粥、小米飯糰、米飯等，而副食品則有野菜粥、烘煮芋、烘煮甘藷等，也會製作類似點心類糯米糕及小米糕。而在肉類的選擇上，主要以鹿肉、羊肉及山豬肉為主，輔以山溪魚類、蝦類與蟹類等。排灣族的調味品比較單純，有鹽、香薑、辣椒、脂油與蜂蜜等。";
+ }
+ .languageTitle2::before
+ {
+     font-family: GenJyuuGothic;
+     content:"在地茄子米酒烤";
+ }
+ .languageContext2::before
+ {
+     font-family: rttf;
+     content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+ }
+ .languageTitle3::before
+ {
+     font-family: GenJyuuGothic;
+     content:"祈納福 Cinavu";
+ }
+ .languageContext3::before
+ {
+     font-family: rttf;
+     content:"「 Cinavu 」 在排灣族語裡祈納福指的是用葉子包著食物，是魯凱族和排灣族的傳統料理，在部落傳統飲食文化中，相當具有代表性，通常是在祭典儀式、喜慶等重要活動時，會一起製作與分享食用，部落若有辦喜事的家族他們會殺豬，用甲酸漿葉包覆豬肉、芋頭粉，再以水煮熟給族人食用，分享其喜悅，有祝福之意思，可以說是原住民特有的喜餅，沒有豬肉時，就用其他食材肉類蔬果替代。";
+ }
+ .languageTitle4::before
+ {
+     font-family: GenJyuuGothic;
+     content:"烤馬糞海膽";
+ }
+ .languageContext4::before
+ {
+     font-family: rttf;
+     content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+ }
+ .languageTitle5::before
+ {
+     font-family: GenJyuuGothic;
+     content:"石板烤肉";
+ }
+ .languageContext5::before
+ {
+     font-family: rttf;
+     content:"石板屋是魯凱族和排灣族的傳統建築物，具有冬暖夏涼的特性，由於石板具有保溫作用。原住民往往將石板燒熱，將獵捕的山豬、鹿或山羊的肉處理過後，切塊加鹽巴，先簡單的煮燙後，放於棚架上以火烘烤至乾，或置於石板上火烤至熟，相當有一番特殊風味。";
+ 
+ }
+
 /*部落*/
 .locationBigTitleF::before
 {
@@ -272,14 +344,9 @@
 }
 .locationBigTitleB::before
 {
-font-family: GenJyuuGothic;
+        font-family: GenJyuuGothic;
 content:" 分布地點";
 }
-
-.languageButton::before{
-content:"English";
-}
-
 
 /* Craft */
 .craftBigTitleF::before
