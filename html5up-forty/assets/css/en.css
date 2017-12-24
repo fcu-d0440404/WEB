@@ -146,7 +146,7 @@
 .foodTitle1::before
 {
     font-family: rttf;
-    content:"Feature of food,";
+    content:"Feature of food";
 }
 .foodContext1::before
 {
