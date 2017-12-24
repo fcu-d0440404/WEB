@@ -1,3 +1,7 @@
+.languageButton::before
+{
+    content:"Chinese";
+}
 .indexBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -11,7 +15,7 @@
 .indexBigTitleB::before
 {
     font-family: GenJyuuGothic;
-    content:"Illustrated Handbook";
+    content:"Illustrated";
 }
 .indexBigContext::before
 {
@@ -26,63 +30,52 @@
 }
 .indexTitle::before
 {
-    font-family: rttf;
     content:"Paiwan";
 }
 .indexTitleFood::before
 {
-    font-family: rttf;
     content:"Food";
 }
 .indexContextFood::before
 {
-    font-family: rttf;
-    content:"Multicultural Diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
+    content:"Multicultural diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
 }
 .indexTitleApparel::before
 {
-    font-family: rttf;
     content:"Apparel";
 }
 .indexContextApparel::before
 {
-    font-family: rttf;
     content:"In elegant attire.A single needle or a piece of thread embroider glass beads and coloured a lique work.Let us appreciate Paiwan glorious clothes and ornaments,epiphany inside meaning.";
 }
 .indexTitleLanguage::before
 {
-    font-family: rttf;
     content:" Language";
 }
 .indexContextLanguage::before
 {
-    font-family: rttf;
     content:"Speech input Paiwan's language,through translation features translate into Chinese.Help peopleto learn about Paiwan's beautiful language.";
 }
 .indexTitleLocation::before
 {
-    font-family: rttf;
     content:"Tribe";
 }
 .indexContextLocation::before
 {
-    font-family: rttf;
     content:"Find the location of Paiwan tribe,and use illustrations to find out where Paiwan tribes are located in Taiwan.";
 }
 .indexTitleCreation::before
 {
-    font-family: rttf;
     content:"Artware";
 }
 .indexContextCreation::before
 {
-    font-family: rttf;
     content:"The Paiwan craft shows their uniqueness in creativity and self-esteem. From their creation can discover the beauty of the Paiwan and their delicate heart.";
 }
 
 .indexAuboutTitle::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:"About us";
 }
 .indexAuboutContext1::before
@@ -145,53 +138,52 @@
 }
 .foodTitle1::before
 {
-    font-family: rttf;
-    content:"Feature of food,";
+    font-family: GenJyuuGothic;
+    content:"Feature of food";
 }
 .foodContext1::before
 {
-    font-family: rttf;
     content:"Paiwan staple food of daily life are small rice, millet gruel, rice balls, rice, etc.,and the non-staple food wild porridge, roasted taro, sweet potato, etc.,also produce similar snacks glutinous rice cake and millet cake.In the choice of meat, mainly to venison, mutton and pork mountain-based, supplemented by mountain brook fish, shrimp and crabs.Paiwan condiments more simple, salt, ginger, pepper, oil and honey and so on.";
 }
 .foodTitle2::before
 {
     font-family: GenJyuuGothic;
-    content:"在地茄子米酒烤";
+    content:"Kinper";
 }
 .foodContext2::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"Kinper is one of the Paiwan delicacies.Paiwan main crop is millet, many traditional delicacies are made of millet.Kinper is made into mochi-shaped rice with millet,and pork is a stuffing.It is a traditional dowry for the Paiwan and Rukai weddings. It even takes one meter in length.";
 }
 .foodTitle3::before
 {
     font-family: GenJyuuGothic;
-    content:"祈納福 cinavu";
+    content:"Cinavu";
 }
 .foodContext3::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"Cinavu is a traditional dish of the Rukai and Paiwan ethnic groups in Paiwan,the food wrapped in leaves.In the tribal traditional food culture,it is representative, usually in the ceremonies, festivals and other important activities,they will be together to produce and share food.If the tribe has wedding, they will kill pigs,wrap the pork with the formic acid paddy leaf, taro powder, and then boiled food for the tribe to eat, to share their happy.There is the meaning of blessing, it can be said that the unique bride cake of aborigine.When there is no pork, substitute other ingredients such as meat, vegetables and fruits.";
 }
 .foodTitle4::before
 {
     font-family: GenJyuuGothic;
-    content:"烤馬糞海膽";
+    content:"Kavava";
 }
 .foodContext4::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"Millet wine, Paiwan lanluage is  kavava, a traditional alcoholic beverage common to Taiwanese aborigines, is often used on various  festival to represent the message of good harvest.Taiwanese aborigines only Rukai and Paiwan with Formosa Lambsquarters to ferment .First, millet beaten into powder and then adding yeast, use banana leaves wrapped them and steamed, and then into the urn, to be 3 To 4 months to ferment millet wine.Before Paiwan drink millet, they stamp their right leg  first, represents they respect mountain god.";
 }
 .foodTitle5::before
 {
     font-family: GenJyuuGothic;
-    content:"石板烤肉";
+    content:"Watsi";
 }
 .foodContext5::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"The slate house is a traditional building of the Rukai and Paiwan clans, which has the characteristics of warm winter and cool summer, due to the slate have wram effect.Aboriginal often heat the slate, after hunting pigs, deer or goats,deal with meat, add salt, cut into pieces, and cook on the scaff Slate roasted to cooked, quite a special flavor.";
 
 }
 
@@ -208,59 +200,44 @@
 .apparelBigContext::before
 {
     font-family: rttf;
-    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，\A貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
+    content:"Paiwan is a distinct class system.Paiwan grouped with the class system of chiefs, aristocrats, warriors and civilians. Aristocratic privileges are very clear in the culture of apparel. Only the higher class can enjoy the privileges of using certain ornamentation, materials and accessories";
 
 }
 .apparelSection1Title::before
 {
     font-family: GenJyuuGothic;
-    content:"服飾特色";
+    content:"Cloth feature";
 
 }
 .apparelSection1Context::before
 {
-    font-family: rttf;
-    content:"排灣族的盛裝與常服型制上基本是相同的，差別在於刺繡和夾織，盛裝時的穿著以刺繡各種紋飾的上衣、綁腿、長袍和手足套等；套褲則是以紅黃綠等顏色綴製而成。\A傳統服飾的用途在於慶典、禮祀、婚禮穿著，有明顯貴族平民之分別，傳統的樣式皆以綴珠繡，約需 一、二年完成，穿起來較重，而現代的大多以十字繡取代，完成時間短，穿起來輕便。豹皮背心只有貴族階級在節慶或重大會議場合才能穿著。除此之外，衣飾也與宗教信仰或風俗有關。排灣族的服飾在臺灣原住民之中可以算是最華麗的";
- 
+    content:"The type between  costumes and splendid clothes of  Paiwan is basically the same, the difference is embroidery and knitting,when dressing splendid clothes,wear  a coat ,leggings, robes , hand cover, foot cover and so on embroidered with various decorations, pants were made of  red, yellow and green colors.Traditional costumes are used in celebrations, wedding ceremonies, wedding dresses, and there is explict difference between aristocratic and civilians.The traditional style of traditional costumes are embroidered with beads, about one or two years to complete, so it is  heavier, and most of the modern cross stitch to replace,so the completion time is short, and  lightweight.Only the aristocracy can wear leopard vests at festivals or major conferences.In addition, clothing is also related to religious beliefs or customs. Paiwan costumes among Taiwanese aborigines can be regarded as the most magnificent.";
 }
 .apparelSection2Title::before
 {
     font-family: GenJyuuGothic;
-    content:"祭奠頭飾";
-
+    content:"Festival headdress";
 }
 .apparelSection2Context::before
 {
-    font-family: rttf;
-    content:"排灣族盛裝時，而女性則有花冠、頭巾、耳飾、頸飾、琉璃珠頸鍊、珠腕環、臂環、長禮袍、女裙、腰帶、綁腿、肩飾串等，日常穿著，女性穿著頭巾、長袍、腰裙、綁腿、手套、網帶、皮雨衣、布袋等。女性頭上纏繞有頭巾，前額點綴著植物花葉，上半身穿長袖長衣，下半身圍一條或兩條單片式長裙，小腿再裹上一對護腳布。";
-
+    content:"Paiwan dress, while women have corolla, headdress, earrings, necklaces, glass bead necklace, beads wrist ring, long gown, skirts, belts, leggings, shoulder strap, etc.Daily wear, women wearing headscarves, robes, waist skirts, leggings, gloves, mesh belt, leather raincoats, cloth bags and so on.Female head wrapped around a headdress, forehead dotted with plant leaves, the upper part of the body wearing long sleeves, the lower part of the body covered one or two single-piece dress, leg and then wrapped in a pair of  banket cloth.";
 }
 .apparelSection3Title::before
 {
     font-family: GenJyuuGothic;
-    content:"排灣族紋手";
-
+    content:"Paiwan hand tattoos";
 }
 .apparelSection3Context::before
 {
-    font-family: rttf;
-    content:"在排灣語里，紋手和紋身都叫 ‘iveci’e（依福吉）；紋手的是女孩，紋身的是男孩。對於傳統的排灣族人來說，能紋手的女孩，絕對是貴族的後裔，或是受榮耀的平民；這位女孩，必定是能編織，能刺繡，能處理各種家務事，也善農務。這麼棒的女孩，才有資格在手上，刺上這麼美麗的花紋。於是，人形紋（Pinaru Cau Cau）是祖先，象徵多子多孫；蜘蛛紋（Pinaru CaCagal），象徵靈巧；蜈蚣紋（Pinaru Laliga），象徵能供養子女的能力。最後的百步蛇花紋，象徵了女孩尊貴的身世。除此之外，孫江萬花 vuvu（排灣語，指祖孫輩）的太陽紋，更是頭目家專用的手紋，象徵著頭目為太陽之子的神話，代表排灣族的頭目擁有了部落的山川、河流，與房舍。";
-
+    content:"In Paiwan,  hand tattoos and tattoos are called 'iveci'e; Hand tattoos are girls and tattoos are boys. For the traditional PaiWan tribe, the girls who are capable of hand tattooing are absolutely descendants of aristocrats or are honored civilians.This girl must be able to weave, can embroidery, can handle a variety of housework, but also good agricultural work. Such a wonderful girl, have the qualifications in hand, stab on such a beautiful pattern.As a result, Pinaru Cau Cau is an ancestor, symbolizing multiple descendants; Pinaru CaCagal, symbolic dexterity; and Pinaru Laliga, a symbol of the ability to support children. The hundred pace snakes pattern, a symbol of the noble girl's life experience. In addition, Sun Jiang Wanhua vuvu (Paiwan language, referring to grandchildren) of the sun pattern, it is the head family dedicated hand pattern, a symbol of the son of the sun head myth, on behalf of the Paiwan clan leader has Tribal mountains, rivers, and houses.";
 }
 
 .apparelSection4Title::before
 {
     font-family: GenJyuuGothic;
     content:"Female clothing";
-
 }
 .apparelSection4Context::before
 {
-    font-family: rttf;
-    content:"女性服飾，平常服有頭帕、上衣（後來受到漢人影響，長裙開襟，窄袖。）、腰裙 、綁腿、手套。盛裝與常服在形式上相同，只是有刺繡和夾織而成，如花頭帕。刺繡長衣、綁腿、刺繡的長袍和手足套。女子上身穿著右襟圓領長袖連身長衣，下身著一或二件單片式長裙，小腿上綁縛一對護腳布。排灣族女子上身穿著之右襟圓領長袖長衣，乃仿自漢人婦女大襟衫的型式。";
-
-}
-.languageButton::before
-{
-    content:"漢語";
+    content:"Female clothing, usually wearing a headdress, jacket (later influenced by the hans long skirt cardigan, narrow sleeves.)Waist skirts, leggings, gloves.Dress and uniforms in the same form, but there are embroidery and woven, such as flower headdress, embroidered long clothing, leggings, embroidered robes and hand, foot kit.The woman wore a right-length crewneck long-sleeved dress, wearing one or two pieces of monolithic dress with a pair of leggings fastened to the lower leg.Paiwan women wearing the right mid-length long-sleeved long-sleeved long-sleeved dress, is modeled on the type of the hans women's pullovers.";
 }

@@ -1,3 +1,8 @@
+.languageButton::before{
+    content:"English";
+}
+
+/*主頁 大標題*/
 .indexBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -24,6 +29,7 @@
     font-family: rttf;
     content:"開始使用";
 }
+/*主頁 功能*/
 .indexTitle::before
 {
     font-family: rttf;
@@ -79,23 +85,23 @@
     font-family: rttf;
     content:"排灣族的工藝顯現了他們創造力與凸顯自我美感的獨特性。從他們的創作去發現排灣族的美以及所擁有的細膩心。";
 }
-
+/*主頁 關於*/
 .indexAuboutTitle::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:"關於我們";
 }
 .indexAuboutContext1::before
 {
     font-family: rttf;
-    content:"台灣排灣族圖鑑是由逢甲大學三年紀的學生所建立。";
+    content:"台灣排灣族圖鑑是由逢甲大學三年級的學生所建立。";
 }
 .indexAuboutContext2::before
 {
     font-family: rttf;
     content:"目的是讓外國旅客能夠更簡易明快的了解台灣排灣族的服飾，食物，文化與工藝，並且也能找尋與您最靠近的排灣族部落。";
 }
-
+/*主頁 聯絡資訊*/
 .indexContectTitle::before
 {
     font-family: GenJyuuGothic;
@@ -127,6 +133,7 @@
     content:"地址";
 }
 
+/*食物*/
 .foodBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -141,11 +148,10 @@
 {
     font-family: rttf;
     content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
-
 }
 .foodTitle1::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:" 飲食特色";
 }
 .foodContext1::before
@@ -156,17 +162,17 @@
 .foodTitle2::before
 {
     font-family: GenJyuuGothic;
-    content:"在地茄子米酒烤";
+    content:"金伯樂";
 }
 .foodContext2::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"金伯樂是排灣族的美食之一，排灣族以小米為主要農作物，許多傳統美食皆由小米製成。金伯樂以小米打成蘑糬狀，豬肉為餡，是排灣族、魯凱族婚禮的傳統聘禮，大的甚至長達一公尺。";
 }
 .foodTitle3::before
 {
     font-family: GenJyuuGothic;
-    content:"祈納福 Cinavu";
+    content:"祈納福";
 }
 .foodContext3::before
 {
@@ -176,12 +182,12 @@
 .foodTitle4::before
 {
     font-family: GenJyuuGothic;
-    content:"烤馬糞海膽";
+    content:"小米酒";
 }
 .foodContext4::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"是台灣原住民常見的傳統酒精飲料，通常用在各祭典上，代表豐收的訊息。台灣原住民只有魯凱族與排灣族兩族用赤藜這種植物來發酵，先將小米敲打成粉狀後加入酵母，以香蕉葉包著先蒸熟，再放入甕中，待3到4個月即可發酵為小米酒。排灣族人在飲用小米酒會先右腳用力跺地一次，表示敬山神。";
 }
 .foodTitle5::before
 {
@@ -195,6 +201,7 @@
 
 }
 
+/*服飾*/
 .apparelBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -261,7 +268,75 @@
 
 }
 
+ /*語言*/
+ .languageBigTitleF::before
+ {
+     font-family: GenJyuuGothic;
+     content:"排灣族";
+ }
+ .languageBigTitleB::before
+ {
+    font-family: GenJyuuGothic;
+    content:" 語言";
+ }
+ .languageBigContext::before
+ {
+     font-family: rttf;
+     content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
+ }
+ .languageTitle1::before
+ {
+     font-family: rttf;
+     content:" 飲食特色";
+ }
+ .languageContext1::before
+ {
+     font-family: rttf;
+     content:"排灣族日常生活的主食有小米飯、小米粥、小米飯糰、米飯等，而副食品則有野菜粥、烘煮芋、烘煮甘藷等，也會製作類似點心類糯米糕及小米糕。而在肉類的選擇上，主要以鹿肉、羊肉及山豬肉為主，輔以山溪魚類、蝦類與蟹類等。排灣族的調味品比較單純，有鹽、香薑、辣椒、脂油與蜂蜜等。";
+ }
+ .languageTitle2::before
+ {
+     font-family: GenJyuuGothic;
+     content:"金伯樂";
+ }
+ .languageContext2::before
+ {
+     font-family: rttf;
+     content:"金伯樂是排灣族的美食之一，排灣族以小米為主要農作物，許多傳統美食皆由小米製成。金伯樂以小米打成蘑糬狀，豬肉為餡，是排灣族、魯凱族婚禮的傳統聘禮，大的甚至長達一公尺。";
+ }
+ .languageTitle3::before
+ {
+     font-family: GenJyuuGothic;
+     content:"祈納福";
+ }
+ .languageContext3::before
+ {
+     font-family: rttf;
+     content:"「 Cinavu 」 在排灣族語裡祈納福指的是用葉子包著食物，是魯凱族和排灣族的傳統料理，在部落傳統飲食文化中，相當具有代表性，通常是在祭典儀式、喜慶等重要活動時，會一起製作與分享食用，部落若有辦喜事的家族他們會殺豬，用甲酸漿葉包覆豬肉、芋頭粉，再以水煮熟給族人食用，分享其喜悅，有祝福之意思，可以說是原住民特有的喜餅，沒有豬肉時，就用其他食材肉類蔬果替代。";
+ }
+ .languageTitle4::before
+ {
+     font-family: GenJyuuGothic;
+     content:"小米酒";
+ }
+ .languageContext4::before
+ {
+     font-family: rttf;
+     content:"小米酒，（排灣語：kavava ），是台灣原住民常見的傳統酒精飲料，通常用在各祭典上，代表豐收的訊息。台灣原住民只有魯凱族與排灣族兩族用赤藜這種植物來發酵，先將小米敲打成粉狀後加入酵母，以香蕉葉包著先蒸熟，再放入甕中，待3到4個月即可發酵為小米酒。 排灣族人在飲用小米酒會先右腳用力跺地一次，表示敬山神 。";
+ }
+ .languageTitle5::before
+ {
+     font-family: GenJyuuGothic;
+     content:"石板烤肉";
+ }
+ .languageContext5::before
+ {
+     font-family: rttf;
+     content:"石板屋是魯凱族和排灣族的傳統建築物，具有冬暖夏涼的特性，由於石板具有保溫作用。原住民往往將石板燒熱，將獵捕的山豬、鹿或山羊的肉處理過後，切塊加鹽巴，先簡單的煮燙後，放於棚架上以火烘烤至乾，或置於石板上火烤至熟，相當有一番特殊風味。";
+ 
+ }
 
+/*部落*/
 .locationBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -269,14 +344,34 @@
 }
 .locationBigTitleB::before
 {
-font-family: GenJyuuGothic;
-content:" 分布地點";
+    font-family: GenJyuuGothic;
+    content:" 分布地點";
 }
-
-.languageButton::before{
-content:"English";
+.locationTitle1::before
+{
+    font-family: GenJyuuGothic;
+    content:"部落分布";
 }
-
+.locationContext1::before
+{
+    font-family: rttf;
+    content:"排灣族以台灣南部為活動區域，北起大武山地，南達恆春，西自隘寮，東到太麻里以南海岸。分為 Raval 亞族和 vutsul 亞族；vutsul 群又分為 paumaumaq 群（北排灣族）、chaoboobol 群和 parilario 群（南排灣族）、paqaroqaro 群（東部排灣）。";
+}
+.locationContext2::before
+{
+    font-family: rttf;
+    content:"依據現行的行政區域劃分，排灣族分布在屏東和台東的 12 個鄉和台東市一個里，分別是：屏東縣的三地門、瑪家、泰武、來義、春日、獅子、牡丹和滿州八個鄉，台東縣的金峰、達仁、大武、太麻里四個鄉，以及台東市的新園里，其中以屏東來義鄉分布最多排灣族人。總人口數約八萬七千多人。";
+}
+.locationContext3::before
+{
+    font-family: rttf;
+    content:"排灣族分為兩大亞族：Raval 和 Butsul 。除了最北方的 Raval 亞族認為祖先發源於大武山山脈的大母母山峰之外，其他各部落大都將大武山 kavulungan 視為文化的發祥地。後來排灣族人逐漸從北大武山往南遷徙，有的則繼續南遷至台灣的最南端，由於地域上的不同，在文化與生活習性上也呈現不同面貌。";
+}
+.locationContext4::before
+{
+    font-family: rttf;
+    content:"Raval 亞族因三面比鄰霧台鄉的魯凱族，多與魯凱族通婚，文化、風俗、習慣皆深受魯凱族的影響；繼承制度與魯凱族相同，採長男繼承制，有別於 Butsul 不分男女的長嗣繼承。排灣族與魯凱族的服飾花紋和頭飾都很相似，使得外人常把兩族人混為一談。 Butsul 亞族佔排灣族的多數，大致可分為東西南北四個區域性群體。";
+}
 
 /* Craft */
 .craftBigTitleF::before

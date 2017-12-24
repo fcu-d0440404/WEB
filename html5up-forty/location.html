@@ -6,8 +6,8 @@
 -->
 <html>
 	<head>
-		<title>排灣族分布地點</title>
-
+		<title>Taiwan - Aborigines</title>
+		<link rel="Shortcut Icon" type="image/x-icon" href="images/webLogo.ico" />
     <style>
        #map {
         height: 450px;
@@ -27,7 +27,7 @@
 		<link type="text/css" rel="stylesheet" href="assets/css/font.css">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<script type="text/javascript" src="assets/js/language.js"></script>
+		
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
@@ -130,15 +130,15 @@
 		<!-- Wrapper -->
 			<div id="wrapper">
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<a href="index.html" class="logo"><img src="images/logo.png" width="25px" style="margin-top:10px"/></a>
-						<a href="index.html" class="logo" style="margin-left:-50px"> Taiwan <b style="color:#ffc769">Aborigines</b></a>
-						<nav  style="font-size:0.8em;">
-							<a onclick="changeLanguage()"><font class = "chineserttf"> 漢語</font></a>
-							<a href="#menu">MENU</a>
-						</nav>
-					</header>
+			<!-- Header -->
+			<header id="header" class="alt">
+					<a href="index.html" class="logo"><img src="images/logo.png" width="25px" style="margin-top:10px"/></a>
+					<a href="index.html" class="logo" style="margin-left:-50px"> Taiwan <b style="color:#ffc769">Aborigines</b></a>
+					<nav  style="font-size:0.8em;">
+						<a onclick="changeLanguage()"><font class = "languageButton"> </font></a>
+						<a href="#menu">MENU</a>
+					</nav>
+				</header>
 
 				<!-- Menu -->
 					<nav id="menu">
@@ -147,7 +147,7 @@
 							<li><a href="food.html">Food</a></li>
 							<li><a href="apparel.html">Apparel</a></li>
 							<li><a href="language.html">Language</a></li>
-							<li><a href="location.html">location</a></li>
+							<li><a href="location.html">Location</a></li>
 							<li><a href="crafts.html">Crafts</a></li>
 						</ul>
 						<ul class="actions vertical">
@@ -170,10 +170,11 @@
 									
 									<span class="image main"></span>
 									<div id="map"></div>
-									 <div id="legend"><h3>Legend</h3></div>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-									<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+									<div id="legend"><br><h3 class="locationTitle1"></h3></div>
+									<p class="locationContext1" style="font-size:20px"></p>
+									<p class="locationContext2" style="font-size:20px"></p>
+									<p class="locationContext3" style="font-size:20px"></p>
+									<p class="locationContext4" style="font-size:20px"></p>
 								</div>
 							</section>
 

@@ -1852,7 +1852,7 @@
 			font-weight: 600;
 			letter-spacing: 0.25em;
 			margin-bottom: 0;
-			text-transform: uppercase;
+			
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -3302,8 +3302,7 @@
 				color: #ec8d81;
 			}
 
-			#header.
-			.style4 .logo strong {
+			#header.style4 .logo strong {
 				color: #e7b788;
 			}
 
