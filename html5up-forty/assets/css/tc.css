@@ -14,3 +14,73 @@
     content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
     white-space: pre;
 }
+
+
+
+
+
+.apparelBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族";
+}
+.apparelBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:"服飾";
+}
+.apparelBigContext::before
+{
+    font-family: rttf;
+    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，\A貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
+
+}
+.apparelSection1Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"服飾特色";
+
+}
+.apparelSection1Context::before
+{
+    font-family: rttf;
+    content:"排灣族的盛裝與常服型制上基本是相同的，差別在於刺繡和夾織，盛裝時的穿著以刺繡各種紋飾的上衣、綁腿、長袍和手足套等；套褲則是以紅黃綠等顏色綴製而成。\A傳統服飾的用途在於慶典、禮祀、婚禮穿著，有明顯貴族平民之分別，傳統的樣式皆以綴珠繡，約需 一、二年完成，穿起來較重，而現代的大多以十字繡取代，完成時間短，穿起來輕便。豹皮背心只有貴族階級在節慶或重大會議場合才能穿著。除此之外，衣飾也與宗教信仰或風俗有關。排灣族的服飾在臺灣原住民之中可以算是最華麗的";
+ 
+}
+.apparelSection2Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"祭奠頭飾";
+
+}
+.apparelSection2Context::before
+{
+    font-family: rttf;
+    content:"排灣族盛裝時，而女性則有花冠、頭巾、耳飾、頸飾、琉璃珠頸鍊、珠腕環、臂環、長禮袍、女裙、腰帶、綁腿、肩飾串等，日常穿著，女性穿著頭巾、長袍、腰裙、綁腿、手套、網帶、皮雨衣、布袋等。女性頭上纏繞有頭巾，前額點綴著植物花葉，上半身穿長袖長衣，下半身圍一條或兩條單片式長裙，小腿再裹上一對護腳布。";
+
+}
+.apparelSection3Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族紋手";
+
+}
+.apparelSection3Context::before
+{
+    font-family: rttf;
+    content:"在排灣語里，紋手和紋身都叫 ‘iveci’e（依福吉）；紋手的是女孩，紋身的是男孩。對於傳統的排灣族人來說，能紋手的女孩，絕對是貴族的後裔，或是受榮耀的平民；這位女孩，必定是能編織，能刺繡，能處理各種家務事，也善農務。這麼棒的女孩，才有資格在手上，刺上這麼美麗的花紋。於是，人形紋（Pinaru Cau Cau）是祖先，象徵多子多孫；蜘蛛紋（Pinaru CaCagal），象徵靈巧；蜈蚣紋（Pinaru Laliga），象徵能供養子女的能力。最後的百步蛇花紋，象徵了女孩尊貴的身世。除此之外，孫江萬花 vuvu（排灣語，指祖孫輩）的太陽紋，更是頭目家專用的手紋，象徵著頭目為太陽之子的神話，代表排灣族的頭目擁有了部落的山川、河流，與房舍。";
+
+}
+
+.apparelSection4Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"女子服飾";
+
+}
+.apparelSection4Context::before
+{
+    font-family: rttf;
+    content:"女性服飾，平常服有頭帕、上衣（後來受到漢人影響，長裙開襟，窄袖。）、腰裙 、綁腿、手套。盛裝與常服在形式上相同，只是有刺繡和夾織而成，如花頭帕。刺繡長衣、綁腿、刺繡的長袍和手足套。女子上身穿著右襟圓領長袖連身長衣，下身著一或二件單片式長裙，小腿上綁縛一對護腳布。排灣族女子上身穿著之右襟圓領長袖長衣，乃仿自漢人婦女大襟衫的型式。";
+
+}
