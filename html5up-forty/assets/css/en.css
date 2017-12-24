@@ -138,11 +138,7 @@
 }
 .foodTitle1::before
 {
-<<<<<<< HEAD
     font-family: GenJyuuGothic;
-=======
-    font-family: rttf;
->>>>>>> 309d0e60a9accd05e22521c90443cd9c774d0b1f
     content:"Feature of food";
 }
 .foodContext1::before
