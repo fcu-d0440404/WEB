@@ -11,7 +11,7 @@
 .indexBigTitleB::before
 {
     font-family: GenJyuuGothic;
-    content:"Illustrated Handbook";
+    content:"Illustrated";
 }
 .indexBigContext::before
 {
@@ -37,7 +37,7 @@
 .indexContextFood::before
 {
     font-family: rttf;
-    content:"Multicultural Diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
+    content:"Multicultural diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
 }
 .indexTitleApparel::before
 {
@@ -226,20 +226,19 @@
 .apparelSection2Title::before
 {
     font-family: GenJyuuGothic;
-    content:"祭奠頭飾";
+    content:"Festival headdress";
 
 }
 .apparelSection2Context::before
 {
     font-family: rttf;
-    content:"排灣族盛裝時，而女性則有花冠、頭巾、耳飾、頸飾、琉璃珠頸鍊、珠腕環、臂環、長禮袍、女裙、腰帶、綁腿、肩飾串等，日常穿著，女性穿著頭巾、長袍、腰裙、綁腿、手套、網帶、皮雨衣、布袋等。女性頭上纏繞有頭巾，前額點綴著植物花葉，上半身穿長袖長衣，下半身圍一條或兩條單片式長裙，小腿再裹上一對護腳布。";
+    content:"Paiwan dress, while women have corolla, headdress, earrings, necklaces, glass bead necklace, beads wrist ring, long gown, skirts, belts, leggings, shoulder strap, etc.Daily wear, women wearing headscarves, robes, waist skirts, leggings, gloves, mesh belt, leather raincoats, cloth bags and so on.Female head wrapped around a headdress, forehead dotted with plant leaves, the upper part of the body wearing long sleeves, the lower part of the body covered one or two single-piece dress, leg and then wrapped in a pair of  banket cloth.";
 
 }
 .apparelSection3Title::before
 {
     font-family: GenJyuuGothic;
-    content:"排灣族紋手";
-
+    content:"Paiwan hand tattoos";
 }
 .apparelSection3Context::before
 {
