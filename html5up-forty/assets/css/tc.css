@@ -1,3 +1,4 @@
+/*主頁 大標題*/
 .indexBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -24,6 +25,7 @@
     font-family: rttf;
     content:"開始使用";
 }
+/*主頁 功能*/
 .indexTitle::before
 {
     font-family: rttf;
@@ -79,23 +81,23 @@
     font-family: rttf;
     content:"排灣族的工藝顯現了他們創造力與凸顯自我美感的獨特性。從他們的創作去發現排灣族的美以及所擁有的細膩心。";
 }
-
+/*主頁 關於*/
 .indexAuboutTitle::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:"關於我們";
 }
 .indexAuboutContext1::before
 {
     font-family: rttf;
-    content:"台灣排灣族圖鑑是由逢甲大學三年紀的學生所建立。";
+    content:"台灣排灣族圖鑑是由逢甲大學三年級的學生所建立。";
 }
 .indexAuboutContext2::before
 {
     font-family: rttf;
     content:"目的是讓外國旅客能夠更簡易明快的了解台灣排灣族的服飾，食物，文化與工藝，並且也能找尋與您最靠近的排灣族部落。";
 }
-
+/*主頁 聯絡資訊*/
 .indexContectTitle::before
 {
     font-family: GenJyuuGothic;
@@ -127,6 +129,7 @@
     content:"地址";
 }
 
+/*食物*/
 .foodBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -141,7 +144,6 @@
 {
     font-family: rttf;
     content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
-
 }
 .foodTitle1::before
 {
@@ -195,6 +197,7 @@
 
 }
 
+/*服飾*/
 .apparelBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -261,7 +264,7 @@
 
 }
 
-
+/*部落*/
 .locationBigTitleF::before
 {
     font-family: GenJyuuGothic;
