@@ -151,7 +151,7 @@
 .foodContext1::before
 {
     font-family: rttf;
-    content:"排灣族日常生活的主食有小米飯、小米粥、小米飯糰、米飯等，而副食品則有野菜粥、烘煮芋、烘煮甘藷等，也會製作類似點心類糯米糕及小米糕。而在肉類的選擇上，主要以鹿肉、羊肉及山豬肉為主，輔以山溪魚類、蝦類與蟹類等。排灣族的調味品比較單純，有鹽、香薑、辣椒、脂油與蜂蜜等。";
+    content:"Paiwan staple food of daily life are small rice, millet gruel, rice balls, rice, etc.,and the non-staple food wild porridge, roasted taro, sweet potato, etc.,also produce similar snacks glutinous rice cake and millet cake.In the choice of meat, mainly to venison, mutton and pork mountain-based, supplemented by mountain brook fish, shrimp and crabs.Paiwan condiments more simple, salt, ginger, pepper, oil and honey and so on.";
 }
 .foodTitle2::before
 {
@@ -198,12 +198,12 @@
 .apparelBigTitleF::before
 {
     font-family: GenJyuuGothic;
-    content:"排灣族";
+    content:"Paiwan";
 }
 .apparelBigTitleB::before
 {
     font-family: GenJyuuGothic;
-    content:"服飾";
+    content:"Apperal";
 }
 .apparelBigContext::before
 {
@@ -251,7 +251,7 @@
 .apparelSection4Title::before
 {
     font-family: GenJyuuGothic;
-    content:"女子服飾";
+    content:"Female clothing";
 
 }
 .apparelSection4Context::before
