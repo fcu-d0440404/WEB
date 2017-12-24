@@ -37,116 +37,116 @@
 .indexContextFood::before
 {
     font-family: rttf;
-    content:"排灣族的飲食文化多元，也包含了許多美食，從古至今一直深受族人的喜愛。進一步了解其飲食的特色、原料與製作過程，認識排灣族特有的美味。";
+    content:"Multicultural Diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
 }
 .indexTitleApparel::before
 {
     font-family: rttf;
-    content:" 服飾";
+    content:"Apparel";
 }
 .indexContextApparel::before
 {
     font-family: rttf;
-    content:"引人注目的華麗服飾，一針一線繡上去的琉璃珠、貼布繡線。讓我們欣賞排灣族奪目的服裝與飾品以及領悟其中的意涵。";
+    content:"In elegant attire.A single needle or a piece of thread embroider glass beads and coloured a lique work.Let us appreciate Paiwan glorious clothes and ornaments,epiphany inside meaning.";
 }
 .indexTitleLanguage::before
 {
     font-family: rttf;
-    content:" 語言";
+    content:" Language";
 }
 .indexContextLanguage::before
 {
     font-family: rttf;
-    content:"語音輸入排灣族語，透過翻譯功能翻譯成中文，讓人方便學習排灣族這個美麗的語言。";
+    content:"Speech input Paiwan's language,through translation features translate into Chinese.Help peopleto learn about Paiwan's beautiful language.";
 }
 .indexTitleLocation::before
 {
     font-family: rttf;
-    content:" 部落";
+    content:"Tribe";
 }
 .indexContextLocation::before
 {
     font-family: rttf;
-    content:"查詢你要知道的部落所在位置，用圖示去了解排灣族各部落分布於台灣何處。";
+    content:"Find the location of Paiwan tribe,and use illustrations to find out where Paiwan tribes are located in Taiwan.";
 }
 .indexTitleCreation::before
 {
     font-family: rttf;
-    content:" 工藝";
+    content:"Artware";
 }
 .indexContextCreation::before
 {
     font-family: rttf;
-    content:"排灣族的工藝顯現了他們創造力與凸顯自我美感的獨特性。從他們的創作去發現排灣族的美以及所擁有的細膩心。";
+    content:"The Paiwan craft shows their uniqueness in creativity and self-esteem. From their creation can discover the beauty of the Paiwan and their delicate heart.";
 }
 
 .indexAuboutTitle::before
 {
     font-family: rttf;
-    content:"關於我們";
+    content:"About us";
 }
 .indexAuboutContext1::before
 {
     font-family: rttf;
-    content:"台灣排灣族圖鑑是由逢甲大學三年紀的學生所建立。";
+    content:" It is founded by junior students of Feng Chia University.";
 }
 .indexAuboutContext2::before
 {
     font-family: rttf;
-    content:"目的是讓外國旅客能夠更簡易明快的了解台灣排灣族的服飾，食物，文化與工藝，並且也能找尋與您最靠近的排灣族部落。";
+    content:"The purpose is to make it easier for foreign travelers to understand the Paiwan apperal, food, culture and artware , and can also  find the Paiwan tribe where is closest to you.";
 }
 
 .indexContectTitle::before
 {
     font-family: GenJyuuGothic;
-    content:"聯絡我們";
+    content:"Contact us";
 }
 .indexContectContext1::before
 {
     font-family: rttf;
-    content:"如果在網頁使用上有甚麼問題，或者是有甚麼修改意見，歡迎您聯繫我們！";
+    content:"If there is any problem in use website, or have any comments, please contact us!";
 }
 .indexContectContext2::before
 {
     font-family: rttf;
-    content:"讓我們能提供更優質的網頁給您們。";
+    content:"Let us provide you with better website.";
 }
 .indexContectEmail::before
 {
     font-family: GenJyuuGothic;
-    content:"信箱";
+    content:"email";
 }
 .indexContectPhone::before
 {
     font-family: GenJyuuGothic;
-    content:"電話";
+    content:"cellphone";
 }
 .indexContectAddr::before
 {
     font-family: GenJyuuGothic;
-    content:"地址";
+    content:"address";
 }
 
 .foodBigTitleF::before
 {
     font-family: GenJyuuGothic;
-    content:"排灣族";
+    content:"Paiwan";
 }
 .foodBigTitleB::before
 {
     font-family: GenJyuuGothic;
-    content:" 食物";
+    content:"Food";
 }
 .foodBigContext::before
 {
     font-family: rttf;
-    content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
+    content:"The livelihood of Paiwan tribes is mainly cultivated by shifting cultivation, hunting, raising and fishing. The diversity of ingredients, so that they have more food to enjoy it.";
 
 }
 .foodTitle1::before
 {
     font-family: rttf;
-    content:" 飲食特色";
+    content:"Feature of food,";
 }
 .foodContext1::before
 {
@@ -259,4 +259,8 @@
     font-family: rttf;
     content:"女性服飾，平常服有頭帕、上衣（後來受到漢人影響，長裙開襟，窄袖。）、腰裙 、綁腿、手套。盛裝與常服在形式上相同，只是有刺繡和夾織而成，如花頭帕。刺繡長衣、綁腿、刺繡的長袍和手足套。女子上身穿著右襟圓領長袖連身長衣，下身著一或二件單片式長裙，小腿上綁縛一對護腳布。排灣族女子上身穿著之右襟圓領長袖長衣，乃仿自漢人婦女大襟衫的型式。";
 
+}
+.languageButton::before
+{
+    content:"漢語";
 }
