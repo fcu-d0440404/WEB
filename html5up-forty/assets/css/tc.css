@@ -1,0 +1,16 @@
+.foodBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族";
+}
+.foodBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:" 食物";
+}
+.foodBigContext::before
+{
+    font-family: rttf;
+    content:"排灣族的生計以山田燒墾為主，兼事狩獵、畜養、與山溪捕魚。\A食材的多元，使他們有了更多的美食能盡情享受。";
+    white-space: pre;
+}
