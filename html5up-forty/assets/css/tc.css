@@ -162,17 +162,17 @@
 .foodTitle2::before
 {
     font-family: GenJyuuGothic;
-    content:"在地茄子米酒烤";
+    content:"金伯樂";
 }
 .foodContext2::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"金伯樂是排灣族的美食之一，排灣族以小米為主要農作物，許多傳統美食皆由小米製成。金伯樂以小米打成蘑糬狀，豬肉為餡，是排灣族、魯凱族婚禮的傳統聘禮，大的甚至長達一公尺。";
 }
 .foodTitle3::before
 {
     font-family: GenJyuuGothic;
-    content:"祈納福 Cinavu";
+    content:"祈納福";
 }
 .foodContext3::before
 {
@@ -182,12 +182,12 @@
 .foodTitle4::before
 {
     font-family: GenJyuuGothic;
-    content:"烤馬糞海膽";
+    content:"小米酒";
 }
 .foodContext4::before
 {
     font-family: rttf;
-    content:"阿拉聒聒 滴滴束衣搭 巴西估低勒單騎 阿娜 納氣督哩";
+    content:"是台灣原住民常見的傳統酒精飲料，通常用在各祭典上，代表豐收的訊息。台灣原住民只有魯凱族與排灣族兩族用赤藜這種植物來發酵，先將小米敲打成粉狀後加入酵母，以香蕉葉包著先蒸熟，再放入甕中，待3到4個月即可發酵為小米酒。排灣族人在飲用小米酒會先右腳用力跺地一次，表示敬山神。";
 }
 .foodTitle5::before
 {
