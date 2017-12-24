@@ -265,3 +265,74 @@
 {
     content:"English";
 }
+
+
+
+
+
+/* Craft */
+.craftBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族";
+}
+.craftBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:" 工藝";
+}
+.craftBigContext::before
+{
+    font-family: rttf;
+    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，\A貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
+
+}
+.craftSection1Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣三寶";
+
+}
+.craftSection1Context::before
+{
+    font-family: rttf;
+    content:"琉璃珠、甕、青銅刀是三者並稱排灣三寶，對排灣族人來說，這三樣東西代表了一個人的階級、地位及財富。在過去，一顆琉璃珠就可以把一個女孩子娶回家，這就代表了排灣三寶在排灣族傳統文化中的重要性。";
+ 
+}
+.craftSection2Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣琉璃珠";
+
+}
+.craftSection2Context::before
+{
+    font-family: rttf;
+    content:"琉璃珠的來源與製法已不可考，流傳世代的古琉璃珠是排灣文化中珍貴的寶藏。這些琉璃珠外表不盡相同，有的色彩繽紛，有的溫柔樸實，而這每一顆琉璃珠裡都蘊含了一個美麗傳說。排灣族人用琉璃珠記載祖先奮鬥的歷史，與天地共生的智慧，和每一段浪漫淒美的愛情故事，還有祖先的期盼和祝福。";
+
+}
+.craftSection3Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族紋手";
+
+}
+.craftSection3Context::before
+{
+    font-family: rttf;
+    content:"在排灣語里，紋手和紋身都叫 ‘iveci’e（依福吉）；紋手的是女孩，紋身的是男孩。對於傳統的排灣族人來說，能紋手的女孩，絕對是貴族的後裔，或是受榮耀的平民；這位女孩，必定是能編織，能刺繡，能處理各種家務事，也善農務。這麼棒的女孩，才有資格在手上，刺上這麼美麗的花紋。於是，人形紋（Pinaru Cau Cau）是祖先，象徵多子多孫；蜘蛛紋（Pinaru CaCagal），象徵靈巧；蜈蚣紋（Pinaru Laliga），象徵能供養子女的能力。最後的百步蛇花紋，象徵了女孩尊貴的身世。除此之外，孫江萬花 vuvu（排灣語，指祖孫輩）的太陽紋，更是頭目家專用的手紋，象徵著頭目為太陽之子的神話，代表排灣族的頭目擁有了部落的山川、河流，與房舍。";
+
+}
+
+.craftSection4Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"女子服飾";
+
+}
+.craftSection4Context::before
+{
+    font-family: rttf;
+    content:"女性服飾，平常服有頭帕、上衣（後來受到漢人影響，長裙開襟，窄袖。）、腰裙 、綁腿、手套。盛裝與常服在形式上相同，只是有刺繡和夾織而成，如花頭帕。刺繡長衣、綁腿、刺繡的長袍和手足套。女子上身穿著右襟圓領長袖連身長衣，下身著一或二件單片式長裙，小腿上綁縛一對護腳布。排灣族女子上身穿著之右襟圓領長袖長衣，乃仿自漢人婦女大襟衫的型式。";
+
+}
