@@ -1,3 +1,7 @@
+.languageButton::before
+{
+    content:"Chinese";
+}
 .indexBigTitleF::before
 {
     font-family: GenJyuuGothic;
@@ -26,63 +30,52 @@
 }
 .indexTitle::before
 {
-    font-family: rttf;
     content:"Paiwan";
 }
 .indexTitleFood::before
 {
-    font-family: rttf;
     content:"Food";
 }
 .indexContextFood::before
 {
-    font-family: rttf;
     content:"Multicultural diet of Paiwan,also include many delicacy.From antiquity to modernity always be deeply loved by the Paiwan.Puts even more food cluture into perspective,including food material and food preparation.Understanding Paiwan special food cluture.";
 }
 .indexTitleApparel::before
 {
-    font-family: rttf;
     content:"Apparel";
 }
 .indexContextApparel::before
 {
-    font-family: rttf;
     content:"In elegant attire.A single needle or a piece of thread embroider glass beads and coloured a lique work.Let us appreciate Paiwan glorious clothes and ornaments,epiphany inside meaning.";
 }
 .indexTitleLanguage::before
 {
-    font-family: rttf;
     content:" Language";
 }
 .indexContextLanguage::before
 {
-    font-family: rttf;
     content:"Speech input Paiwan's language,through translation features translate into Chinese.Help peopleto learn about Paiwan's beautiful language.";
 }
 .indexTitleLocation::before
 {
-    font-family: rttf;
     content:"Tribe";
 }
 .indexContextLocation::before
 {
-    font-family: rttf;
     content:"Find the location of Paiwan tribe,and use illustrations to find out where Paiwan tribes are located in Taiwan.";
 }
 .indexTitleCreation::before
 {
-    font-family: rttf;
     content:"Artware";
 }
 .indexContextCreation::before
 {
-    font-family: rttf;
     content:"The Paiwan craft shows their uniqueness in creativity and self-esteem. From their creation can discover the beauty of the Paiwan and their delicate heart.";
 }
 
 .indexAuboutTitle::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:"About us";
 }
 .indexAuboutContext1::before
@@ -145,12 +138,11 @@
 }
 .foodTitle1::before
 {
-    font-family: rttf;
+    font-family: GenJyuuGothic;
     content:"Feature of food";
 }
 .foodContext1::before
 {
-    font-family: rttf;
     content:"Paiwan staple food of daily life are small rice, millet gruel, rice balls, rice, etc.,and the non-staple food wild porridge, roasted taro, sweet potato, etc.,also produce similar snacks glutinous rice cake and millet cake.In the choice of meat, mainly to venison, mutton and pork mountain-based, supplemented by mountain brook fish, shrimp and crabs.Paiwan condiments more simple, salt, ginger, pepper, oil and honey and so on.";
 }
 .foodTitle2::before
@@ -219,21 +211,16 @@
 }
 .apparelSection1Context::before
 {
-    font-family: rttf;
     content:"The type between  costumes and splendid clothes of  Paiwan is basically the same, the difference is embroidery and knitting,when dressing splendid clothes,wear  a coat ,leggings, robes , hand cover, foot cover and so on embroidered with various decorations, pants were made of  red, yellow and green colors.Traditional costumes are used in celebrations, wedding ceremonies, wedding dresses, and there is explict difference between aristocratic and civilians.The traditional style of traditional costumes are embroidered with beads, about one or two years to complete, so it is  heavier, and most of the modern cross stitch to replace,so the completion time is short, and  lightweight.Only the aristocracy can wear leopard vests at festivals or major conferences.In addition, clothing is also related to religious beliefs or customs. Paiwan costumes among Taiwanese aborigines can be regarded as the most magnificent.";
- 
 }
 .apparelSection2Title::before
 {
     font-family: GenJyuuGothic;
     content:"Festival headdress";
-
 }
 .apparelSection2Context::before
 {
-    font-family: rttf;
     content:"Paiwan dress, while women have corolla, headdress, earrings, necklaces, glass bead necklace, beads wrist ring, long gown, skirts, belts, leggings, shoulder strap, etc.Daily wear, women wearing headscarves, robes, waist skirts, leggings, gloves, mesh belt, leather raincoats, cloth bags and so on.Female head wrapped around a headdress, forehead dotted with plant leaves, the upper part of the body wearing long sleeves, the lower part of the body covered one or two single-piece dress, leg and then wrapped in a pair of  banket cloth.";
-
 }
 .apparelSection3Title::before
 {
@@ -242,24 +229,15 @@
 }
 .apparelSection3Context::before
 {
-    font-family: rttf;
     content:"In Paiwan,  hand tattoos and tattoos are called 'iveci'e; Hand tattoos are girls and tattoos are boys. For the traditional PaiWan tribe, the girls who are capable of hand tattooing are absolutely descendants of aristocrats or are honored civilians.This girl must be able to weave, can embroidery, can handle a variety of housework, but also good agricultural work. Such a wonderful girl, have the qualifications in hand, stab on such a beautiful pattern.As a result, Pinaru Cau Cau is an ancestor, symbolizing multiple descendants; Pinaru CaCagal, symbolic dexterity; and Pinaru Laliga, a symbol of the ability to support children. The hundred pace snakes pattern, a symbol of the noble girl's life experience. In addition, Sun Jiang Wanhua vuvu (Paiwan language, referring to grandchildren) of the sun pattern, it is the head family dedicated hand pattern, a symbol of the son of the sun head myth, on behalf of the Paiwan clan leader has Tribal mountains, rivers, and houses.";
-
 }
 
 .apparelSection4Title::before
 {
     font-family: GenJyuuGothic;
     content:"Female clothing";
-
 }
 .apparelSection4Context::before
 {
-    font-family: rttf;
     content:"Female clothing, usually wearing a headdress, jacket (later influenced by the hans long skirt cardigan, narrow sleeves.)Waist skirts, leggings, gloves.Dress and uniforms in the same form, but there are embroidery and woven, such as flower headdress, embroidered long clothing, leggings, embroidered robes and hand, foot kit.The woman wore a right-length crewneck long-sleeved dress, wearing one or two pieces of monolithic dress with a pair of leggings fastened to the lower leg.Paiwan women wearing the right mid-length long-sleeved long-sleeved long-sleeved dress, is modeled on the type of the hans women's pullovers.";
-
-}
-.languageButton::before
-{
-    content:"Chinese";
 }
