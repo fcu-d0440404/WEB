@@ -241,3 +241,120 @@
 {
     content:"Female clothing, usually wearing a headdress, jacket (later influenced by the hans long skirt cardigan, narrow sleeves.)Waist skirts, leggings, gloves.Dress and uniforms in the same form, but there are embroidery and woven, such as flower headdress, embroidered long clothing, leggings, embroidered robes and hand, foot kit.The woman wore a right-length crewneck long-sleeved dress, wearing one or two pieces of monolithic dress with a pair of leggings fastened to the lower leg.Paiwan women wearing the right mid-length long-sleeved long-sleeved long-sleeved dress, is modeled on the type of the hans women's pullovers.";
 }
+
+/*部落*/
+.locationBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣族";
+}
+.locationBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:" 分布地點";
+}
+.locationTitle1::before
+{
+    font-family: GenJyuuGothic;
+    content:"部落分布";
+}
+.locationContext1::before
+{
+    font-family: rttf;
+    content:"排灣族以台灣南部為活動區域，北起大武山地，南達恆春，西自隘寮，東到太麻里以南海岸。分為 Raval 亞族和 vutsul 亞族；vutsul 群又分為 paumaumaq 群（北排灣族）、chaoboobol 群和 parilario 群（南排灣族）、paqaroqaro 群（東部排灣）。";
+}
+.locationContext2::before
+{
+    font-family: rttf;
+    content:"依據現行的行政區域劃分，排灣族分布在屏東和台東的 12 個鄉和台東市一個里，分別是：屏東縣的三地門、瑪家、泰武、來義、春日、獅子、牡丹和滿州八個鄉，台東縣的金峰、達仁、大武、太麻里四個鄉，以及台東市的新園里，其中以屏東來義鄉分布最多排灣族人。總人口數約八萬七千多人。";
+}
+.locationContext3::before
+{
+    font-family: rttf;
+    content:"排灣族分為兩大亞族：Raval 和 Butsul 。除了最北方的 Raval 亞族認為祖先發源於大武山山脈的大母母山峰之外，其他各部落大都將大武山 kavulungan 視為文化的發祥地。後來排灣族人逐漸從北大武山往南遷徙，有的則繼續南遷至台灣的最南端，由於地域上的不同，在文化與生活習性上也呈現不同面貌。";
+}
+.locationContext4::before
+{
+    font-family: rttf;
+    content:"Raval 亞族因三面比鄰霧台鄉的魯凱族，多與魯凱族通婚，文化、風俗、習慣皆深受魯凱族的影響；繼承制度與魯凱族相同，採長男繼承制，有別於 Butsul 不分男女的長嗣繼承。排灣族與魯凱族的服飾花紋和頭飾都很相似，使得外人常把兩族人混為一談。 Butsul 亞族佔排灣族的多數，大致可分為東西南北四個區域性群體。";
+}
+
+/* Craft */
+.craftBigTitleF::before
+{
+    font-family: GenJyuuGothic;
+    content:"Paiwan";
+}
+.craftBigTitleB::before
+{
+    font-family: GenJyuuGothic;
+    content:"";
+}
+.craftBigContext::before
+{
+    font-family: rttf;
+    content:"排灣族是個階級分明的族群，擁有頭目、貴族、勇士、平民的階級制度，\A貴族特權在衣飾文化上的表現非常鮮明，只有階級較高者才能享有使用某些紋飾、材質與飾品的特權";
+
+}
+.craftSection1Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"Paiwan Three Treasures";
+
+}
+.craftSection1Context::before
+{
+    font-family: rttf;
+    content:"Glass beads, urn and bronze knives are all known as Paiwan Three Treasures. For  the Paiwan, these three things represent one's social class, status and wealth. In the past, a glass bead could marry a girl back home, which represented the importance of Paiwan Three Treasures in the Paiwan traditional culture.";
+ 
+}
+.craftSection2Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣琉璃珠";
+
+}
+.craftSection2Context::before
+{
+    font-family: rttf;
+    content:"琉璃珠的來源與製法已不可考，流傳世代的古琉璃珠是排灣文化中珍貴的寶藏。這些琉璃珠外表不盡相同，有的色彩繽紛，有的溫柔樸實，而這每一顆琉璃珠裡都蘊含了一個美麗傳說。排灣族人用琉璃珠記載祖先奮鬥的歷史，與天地共生的智慧，和每一段浪漫淒美的愛情故事，還有祖先的期盼和祝福。";
+
+}
+.craftSection3Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣陶壺";
+
+}
+.craftSection3Context::before
+{
+    font-family: rttf;
+    content:"通常陶壺為頭目貴族所珍藏，數量的多寡與好壞，象徵頭目家族的財富與地位。在排灣族傳統社會裡僅僅只有貴族才可擁有陶壺，但隨著時代的進步，現今的陶壺以非貴族的專利了。陶壺依功能可分為：粹祭祀用的祭壺或古陶壺，作為聘禮並浮貼或陰刻等紋樣的古陶壺，釀酒用的陶壺，可放置糧食、種子、醃肉、盛水用的陶壺前二類價值相當高，因而以「dredredan」尊稱作為祭祀或者是聘禮用的陶壺。陶壺與甕的地位不同，甕僅是用來裝成物品的器具，並無其他意義。    ";
+
+}
+
+.craftSection4Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣青銅刀";
+
+}
+.craftSection4Context::before
+{
+    font-family: rttf;
+    content:"青銅刀，排灣語稱之為「 tikuzan ni tagaraus 」，為排灣族三寶之一。青銅刀一般分為大型和小型，大型雙刃的青銅刀，排灣族語意為「神的拐杖」，意為神的器物。大型的青銅刀刃長約30至45公分，平日供放在部落的祭祀小屋內。小型的單刃青銅刀刃長約15公分，是巫師占卜祭禱作法時的法器之一。";
+
+}
+
+.craftSection5Title::before
+{
+    font-family: GenJyuuGothic;
+    content:"排灣琉璃珠杯";
+
+}
+.craftSection5Context::before
+{
+    font-family: rttf;
+    content:"創意延伸排灣族文化的共飲連杯概念，轉化成時尚個性噴砂玻璃杯，可以任意挑選組合喜歡的部落圖騰，而且「單口杯」是只有頭目才能使用的喔！";
+
+}
