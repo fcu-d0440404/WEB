@@ -1,6 +1,6 @@
 
 //创建一个link来引入控制语言的css  
- function languageLink (type) {  
+function languageLink (type) {  
     var link = document.createElement('link');  
     link.id = "lang";  
     link.type = "text/css";  
@@ -11,8 +11,19 @@
 }  
 //根据语言类型切换  
  function changeLang(type){  
+    /*if(Cookies.get("defaultLang") == undefined)
+    {
+        alert("undefined");
+        Cookies.set("defaultLang","tc")
+    }*/
     var defaultLang = "tc";  
-    if(type) defaultLang= type;  
+
+    if(type) 
+    {
+        alert(type)
+        defaultLang= type; 
+        Cookies.set("defaultLang","type")
+     }
     var link = document.getElementById('lang');  
     if(link) {  
         if(link.langType == defaultLang) return;  
