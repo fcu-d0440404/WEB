@@ -20,9 +20,9 @@ function languageLink (type) {
 
     if(type) 
     {
-        alert(type)
+
         defaultLang= type; 
-        Cookies.set("defaultLang","type")
+        //Cookies.set("defaultLang","type")
      }
     var link = document.getElementById('lang');  
     if(link) {  
