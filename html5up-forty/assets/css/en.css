@@ -358,3 +358,69 @@
 
 }
 
+
+/*語言*/
+ .languageBigTitleF::before
+ {
+     font-family: GenJyuuGothic;
+     content:"Paiwan";
+ }
+ .languageBigTitleB::before
+ {
+    font-family: GenJyuuGothic;
+    content:" Language";
+ }
+ .languageBigContext::before
+ {
+     font-family: rttf;
+	 content:"The linguistic classification belongs to the Paiwan language group of the Austronesian language family. It is also the national language of Taiwan and written in Latin. It is the closest lingua franca to the original Austronesian language in the entire South Island language family.";
+
+ }
+ .languageTitle1::before
+ {
+     font-family: rttf;
+     content:"Paiwan language history";
+ }
+ .languageContext1::before
+ {
+     font-family: rttf;
+	 content:"Paiwan language is one of the oldest and most versatile languages in the Austronesian language family. It has a long history and was one of the most popular languages in southern Taiwan. In ancient times, it was not only used by Paiwan people, but also many other Sirayan and Rukai , Makadao people, people in the southern part of the Pingtung area, such as Han Chinese, can communicate in the Gulf language.";
+
+     
+ }
+ .languageTitle2::before
+ {
+     font-family: GenJyuuGothic;
+	 content:"Paiwan language distribution";
+ }
+ .languageContext2::before
+ {
+     font-family: rttf;
+     content:"Taiwanese Austronesian Language Map Before the Hans come to Taiwan (Blust, 1999). The Taiwanese Lan Yu Island (dark red) is said to be the area where Malay-Polynesian dialect of Bataan language is spoken.Paiwan language can be divided into pinakaiyatjaladj and kakaian according to the use of vocabulary. Before and during the Japanese era, most of the words used were classical Paiwan, whereas classical Paiwan was Only seen in the language or ancient rhyme, not often used in everyday conversation.Paiwan Bay Language is now more commonly used, the structure of the words of the sentence is relatively simple, that is literally you can at a glance.";
+ }
+ 
+ .languageTitle3::before
+ {
+     font-family: GenJyuuGothic;
+     content:"Voice System and Structure";
+ }
+ .languageContext3::before
+ {
+     font-family: rttf;
+     content:"Most of the phonemes in Paiwan are marked with the appropriate Unicode symbols. In the formulation of the writing system of the Austronesian language in Taiwan, the phonetic system of the Yuancong consonants is in principle \"phonetic part\" (horizontal), \"post-phonetic method\" (vertical) and then \"voiced\" Set its phoneme of the phoneme architecture. The grammatical classification of Taiwan's southern island language is not the same as that of general terms such as verbs, nouns, adjectives, prepositions and adverbs used in general analysis or other comprehensive terms. For example, there are generally no adverbs in Taiwan's South Island Language. The concept of adverbs is generally presented in verbs, which can be called \"sub verbs\" and vice versa in Russian. Paiwan grammar classification is based on the grammar of the parts of speech, affixes, word structure and classification, comparative analysis of words and other taxonomies to be analyzed.";
+ }
+ .languageTitle4::before
+ {
+     font-family: GenJyuuGothic;
+     content:"Paiwan language picture book";
+ }
+ .languageContext4::before
+ {
+     font-family: rttf;
+     content:"Through the combination of modern painting and design style with Aboriginal culture, the picture book storybook will be redrawn. There will be an introduction to Aboriginal tribes and a cultural feast in the picture book, so as to lead everyone in search of life in Taiwan's Taiwan Island. Then we will come To the \"Ethnic Kaleidoscope\" is an Aboriginal culture park where you can see the Aya lines, the Sai Xiaoku's dwarf, the Bunun's eight chorus, the Thao white deer legend, the Tsou The men's assembly hall, the Paiwan class system, the Lehu clout of the Rukai tribe, the Puyan junior rallies, the Ami harvest festival, the Amis flying fish festival, the Kamalan banana weaving, Ascension of the ancestors of the Proletariat, the Rainbow Bridge of the Seqq ethnic group, and the Vulcan Festival of the Thachiaraya family are all the wonderful cultural and living wisdom of our native Taiwan.";
+ }
+ .languageTitle5::before
+ {
+     font-family: GenJyuuGothic;
+     content:"Paiwan translated bear";
+ }
