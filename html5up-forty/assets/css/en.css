@@ -373,7 +373,7 @@
  .languageBigContext::before
  {
      font-family: rttf;
-	 content:"The linguistic classification belongs to the Paiwan language group of the Austronesian language family. It is also the national language of Taiwan and written in Latin. It is the closest lingua franca to the original Austronesian language in the entire South Island language family.";
+	 content:"The linguistic classification belongs to the Paiwan language group of the Austronesian language family.";
 
  }
  .languageTitle1::before
